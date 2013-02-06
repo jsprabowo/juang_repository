@@ -1,4 +1,4 @@
 juang_repository
 ================
 
-hanya untuk belajar
+hanya untuk belajar dan tes untuk edit
